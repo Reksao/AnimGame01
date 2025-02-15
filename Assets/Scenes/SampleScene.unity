@@ -947,6 +947,7 @@ MonoBehaviour:
   walkingSpeed: 2
   runningSpeed: 6
   currentSpeed: 0
+  _bowShooting: {fileID: 5866666020882440218}
 --- !u!4 &1257467078858926
 Transform:
   m_ObjectHideFlags: 0
@@ -28529,6 +28530,7 @@ MonoBehaviour:
   arrowPrefab: {fileID: 6546496571236928771, guid: 49cf81cc501a20445b15b089fa8d055c, type: 3}
   arrowSpawnPoint: {fileID: 8062698202336889752}
   arrowForce: 22
+  _isAiming: 0
 --- !u!114 &5866666020882440219
 MonoBehaviour:
   m_ObjectHideFlags: 0
